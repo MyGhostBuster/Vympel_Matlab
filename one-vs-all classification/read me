@@ -1,0 +1,2 @@
+be_all.m - основной файл для преобразования данных, подбора параметров оценки, расчета и экспорта результатов
+fmincg.m, featureNormalize.m,lRCostFunction.m, sigmoid.m, predictOneVsAll.m - функции для оценки, расчета и оптимизации
